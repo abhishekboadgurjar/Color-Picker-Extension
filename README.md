@@ -1,3 +1,5 @@
+# Color Picker Extension
+
 ### Introduction
 Color is key in web design and development, and having an efficient way to select and manage colors can streamline your workflow. In this post, we'll explore how to create a Color Picker extension that lets you effortlessly pick colors from your screen, view a history of picked colors, and manage them easily. Using the EyeDropper API and modern web technologies, this extension offers a practical tool for designers and developers alike.
 ### Project Overview
